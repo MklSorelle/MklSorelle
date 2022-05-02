@@ -9,6 +9,7 @@ Hi, welcome on my GitHub profile i'm studying at HETIC Here you will find all th
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [sorellemoukalla@icloud.com](mailto:sorellemoukalla@icloud.com)
 * 🧠  I'm learning programming languages
+* 🖥️  See my portfolio at [https://sorellemkl.netlify.app/](http://https://sorellemkl.netlify.app/)
 
 ### Skills
 
