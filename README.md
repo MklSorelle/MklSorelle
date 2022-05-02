@@ -1,5 +1,5 @@
-- 👋 Hi, welcome on my GitHub profile. I’m Sorelle and i am studying at HETIC
-- 🌱 Here you will find all the work i've done
+- 👋 Hi, welcome on my GitHub profile. I’m Sorelle and i'm studying at HETIC
+- 🌱 Here you will find all the work i've done so far
 - 💞️ I’m currently planning and learning more 
 - 📫 Hopefully you will like it 
 
