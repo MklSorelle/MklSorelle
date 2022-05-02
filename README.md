@@ -4,7 +4,7 @@ Hi 👋 My name is Sorelle
 Junior Web Developer
 --------------------
 
-Hi, welcome on my GitHub profile and i'm studying at HETIC Here you will find all the work i've done so far I’m currently planning and learning more
+Hi, welcome on my GitHub profile i'm studying at HETIC Here you will find all the work i've done so far I’m currently planning and learning more
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [sorellemoukalla@icloud.com](mailto:sorellemoukalla@icloud.com)
